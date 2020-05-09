@@ -1,0 +1,128 @@
+body{
+    background-image: url(https://picsum.photos/1200/700?blur=4);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.father{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.6)
+}
+.boxtTurn1{
+    margin-top: 0%;
+}
+
+.txtbt{
+    width: 75%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+}
+
+.itsat{
+    width: 120px;
+    padding-top: 32%;
+}
+
+.txt1{
+    font-size: 20px;
+}
+.txt2{
+    font-size: 20px;
+}
+
+.txtTurnos{
+    width: 60%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+.subTopTurno{
+    margin-top: auto;
+    color: rgb(156, 153, 153);
+    font-size: 12px;
+}
+
+.subTop1{
+    color: rgb(192, 192, 192);
+    font-size: 12px;
+}
+.subTop2{
+    color: rgb(192, 192, 192);
+    font-size: 12px;
+}
+
+.txt3{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.txt4{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.txt3d{
+    color: rgb(235, 235, 235);
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.txt4d{
+    color: rgb(235, 235, 235);
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+.subTop3{
+    color: rgb(88, 88, 88);
+    font-size: 12px;
+}
+.subTop4{
+    color: rgb(88, 88, 88);
+    font-size: 12px;
+}
+
+.main{
+    background: white;
+    width: auto;
+    
+    border-radius: 5px;
+}
+.txt5t{
+    font-size: 10px;
+}
+
+.txt6t{
+    font-size: 10px;
+}
+
+.txt7t{
+    font-size: 10px;
+}
+
+.barrat{
+    background: rgb(42,49,78);
+    color: white;
+    width: auto;
+    border-radius: 5px;
+}
+.barratf{
+    background: rgb(230, 230, 230);
+    color: rgb(19, 19, 19);
+    width: 100%;
+    border-radius: 4px;
+    margin-left: 0;
+}
+
+.txt9{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 15px;
+}
+
+.btnCancelar{
+    width: 80%;
+    margin-left: 10%;
+}
+
